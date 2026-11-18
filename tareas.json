@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "titulo": "Estudiar Node",
+    "descripcion": "Repasar Express y JWT"
+  },
+  {
+    "id": 2,
+    "titulo": "Estudiar",
+    "descripcion": "Repasar Node"
+  }
+]
